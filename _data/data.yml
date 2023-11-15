@@ -37,7 +37,7 @@ sidebar:
           level: Professional
 
         - idiom: German
-          level: Basic(A2)
+          level: Basic,A2
 
         - idiom: Telugu
           level: Native
@@ -66,9 +66,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in NHRE
+        university: Bauhaus University, Weimar, DE
+        time: 2019 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +77,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachelor of Civil Engineering
+        university: RGUKT, RK Valley, India
+        time: 2013 - 2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -243,22 +243,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Node.js & Vanilla
+        level: 50%
+
+      - name: SQL
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Azure(Data Factory, Databricks)
+        level: 65%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: PySpark
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: MS Power BI
         level: 60%
 
 footer: >
