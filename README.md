@@ -29,7 +29,7 @@
 - Conducted data cleanups and developed PowerBI Dashboards for reinforcement, concrete, and CO2 assessments.
 - Created and deployed a construction chatbot using OpenAI embeddings and Python.
 - Developed Revit Dynamo scripts for parametric updates and integrated FRILO applications with Revit Dynamo and SOFiSTiK using Python.
-- Utilized Autodesk Forge-based web application for internal use.
+- Implemented Autodesk Forge-based web application for internal use.
 
 ### ETL Developer - Internship
 **Hochtief Vicon GmbH, Essen, Germany**  
