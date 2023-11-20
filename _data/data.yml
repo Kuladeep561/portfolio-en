@@ -33,11 +33,12 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Professional
 
         - idiom: German
           level: Basic,A2
+
+        - idiom: English
+          level: Professional
 
         - idiom: Telugu
           level: Native
@@ -75,8 +76,8 @@ education:
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Master's thesis focused on ontology methods for quality control in construction, emphasizing Ontology for Construction Quality Assurance (OCQA)
+            - Special project involved the automation of visualizing BIM models in game engines using Python and Blueprints in the UE-4 Game Engine.
       - degree: Bachelor of Civil Engineering
         university: RGUKT, RK Valley, India
         time: 2013 - 2017
@@ -92,21 +93,20 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Data Analyst | BIM Technician
+        time: July 2022 - Present
+        company: EDD-Holding, Köln
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          As a Data Analyst and BIM Technician (developer) at EDD-Holding, I specialize in leveraging various technologies to enhance the efficiency of structural engineers' workflows. 
+          Serving as the go-to professional for a team of structural engineers, I play a pivotal role in developing applications and providing valuable insights through data analysis
+          My Key Performances:
+            - Developed a solution architecture for BIM Dashboards involving ETL processes and PowerBI on MS Azure
+            - Conducted ETL operations on building data and prepared Dashboards for comprehensive reinforcement, concrete, and CO2 assessments
+            - Implemented Autodesk Forge-based web applications, including an IFC cloud converter and a data extractor into Excel
+            - Created and deployed a construction chatbot using OpenAI embeddings and Python Flask
+            - Developed Revit Dynamo scripts for parametric updates and integrated FRILO applications with Revit Dynamo and SOFiSTiK using Python
+          In summary, these key achievements showcase my diverse skill set, blending BIM expertise, data analytics, and technology integration to facilitate smoother workflows and deliver innovative solutions for the structural engineering team at EDD-Holding.
+
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
