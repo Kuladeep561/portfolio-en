@@ -15,7 +15,7 @@
     {% for category in skills.categories  %}
     <div class="item">
 
-      <h3 class="level-title">{{ category.name }}</h3>
+      <h3 class="level-title">{{ category.name }}:</h3>
       <p>
         {% for skill in category.skills %}
           {{ skill.name }}{% unless forloop.last %}, {% endunless %}

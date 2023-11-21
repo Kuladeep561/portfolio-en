@@ -269,13 +269,19 @@ p {
 
 .skillset {
   .item {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     overflow: hidden;
   }
   .level-title {
+    font-weight: bold; 
+    display: inline;
+    margin-right: 5px;
     font-size: 14px;
     margin-top: 0;
     margin-bottom: 12px;
+  }
+  .skills-section p {
+    margin: 0; 
   }
   .level-bar {
     height: 12px;
