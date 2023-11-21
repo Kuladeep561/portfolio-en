@@ -8,7 +8,8 @@
     }
 
     img.avatar {
-        
+        filter: grayscale(1);
+        -webkit-filter: greyscale(1);
     }
    .main-wrapper .time {
        float: right;
@@ -18,7 +19,7 @@
     .sidebar-wrapper {
         position: static;
         float: right;
-        width: 30%;
+        width: 20%;
         -webkit-print-color-adjust: exact; 
     }
 
