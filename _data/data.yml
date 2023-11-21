@@ -127,23 +127,30 @@ experiences:
 
         details: |
           During my internship at Hochtief Vicon GmbH, I served as an ETL Developer, contributing to the optimization and expansion of data processing workflows. 
-          Key accomplishments during this period include
+          Key accomplishments during this period include:
             - Implemented a recursive file search using Azure Data Factory
             - Optimized an existing Azure Data Factory ETL pipeline through generalization
             - Implemented multiple connectors in a data processing workflow MS SSIS and T-SQL
-            - Various software developments and adjustments in C# and PowerShell.
+            - Various software developments and adjustments in C# and PowerShell
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      role: ETL Developer
+        time: 07/2017 – 09/2019
+        company: Tata Consultancy Services Ltd., Hyderabad, India
+        technologies:
+        - SQL
+        - ETL
+        - Informatica ETL
+        - SAP BW       
+
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          In my role as an ETL Developer at Tata Consultancy Services Ltd., I played a vital role in ensuring efficient data management and seamless integration for advanced reporting.
+          Key responsibilities and achievements include:
+            - Designed and developed SQL database schemas, and optimized data storage structures for efficient loading and retrieval of data
+            - Implemented robust ETL pipelines using Informatica ETL, enabling seamless data integration from various sources into a central database for advanced reporting
+            - Collaborated with cross-functional teams to determine data migration requirements, executed migration plans, and verified data quality post-migration
+            - Monitored data loads and addressed data reconciliation issues between source and target systems in SAP BW
+
+          This experience not only refined my technical skills in database design, ETL development, and data migration but also fueled my passion for technology. 
 
 certifications:
       title: Certifications
