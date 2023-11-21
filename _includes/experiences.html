@@ -28,7 +28,12 @@
       {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
-
+    
+    <div class="technologies">
+      {% for technology in experience.technologies %}
+        <span class="technology-button">{{ technology }}</span>
+      {% endfor %}
+    </div>
   </div><!--//item-->
   {% endfor %}
 

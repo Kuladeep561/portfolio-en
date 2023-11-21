@@ -214,6 +214,21 @@ p {
     margin-bottom: 10px;
     color: $text-grey;
   }
+  .technologies {
+    margin-top: 10px;
+  
+    .technology-button {
+      display: inline-block;
+      padding: 6px 12px;
+      margin: 0 5px 5px 0;
+      background: $theme-color;
+      color: #fff;
+      border: 1px solid $theme-color;
+      border-radius: 4px;
+      font-size: 14px;
+      text-decoration: none;
+    }
+  }
 
   .project-title {
     font-size: 16px;

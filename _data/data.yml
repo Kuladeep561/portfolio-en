@@ -96,17 +96,22 @@ experiences:
       - role: Data Analyst | BIM Technician
         time: July 2022 - Present
         company: EDD-Holding, Köln
+        technologies:
+        - Python
+        - Vanilla.js
+        - Node.js
+        - RESTful API
         details: |
           As a Data Analyst and BIM Technician (developer) at EDD-Holding, I specialize in leveraging various technologies to enhance the efficiency of structural engineers' workflows. 
           Serving as the go-to professional for a team of structural engineers, I play a pivotal role in developing applications and providing valuable insights through data analysis
           My Key Performances:
             - Developed a solution architecture for BIM Dashboards involving ETL processes and PowerBI on MS Azure
-            - Conducted ETL operations on building data and prepared Dashboards for comprehensive reinforcement, concrete, and CO2 assessments
+            - Conducted ETL operations on building data and prepared PowerBI Dashboards for comprehensive reinforcement, concrete, and CO2 assessments
             - Implemented Autodesk Forge-based web applications, including an IFC cloud converter and a data extractor into Excel
             - Created and deployed a construction chatbot using OpenAI embeddings and Python Flask
             - Developed Revit Dynamo scripts for parametric updates and integrated FRILO applications with Revit Dynamo and SOFiSTiK using Python
           
-          In summary, these key achievements showcase my diverse skill set, blending BIM expertise, data analytics, and technology integration to facilitate smoother workflows and deliver innovative solutions for the structural engineering team at EDD-Holding.
+          In summary, these key achievements showcase my diverse skill set, blending developer expertize, data analytics, and technology integration to facilitate smoother workflows and deliver innovative solutions for the structural engineering team at EDD-Holding.
 
       - role: Senior Software Engineer
         time: 2014 - 2015
