@@ -133,7 +133,7 @@ experiences:
             - Implemented multiple connectors in a data processing workflow MS SSIS and T-SQL
             - Various software developments and adjustments in C# and PowerShell
 
-      role: ETL Developer
+      - role: ETL Developer
         time: 07/2017 – 09/2019
         company: Tata Consultancy Services Ltd., Hyderabad, India
         technologies:
