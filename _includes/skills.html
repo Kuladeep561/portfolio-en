@@ -16,9 +16,14 @@
     <div class="item">
 
       <h3 class="level-title">{{ category.name }}:</h3>
-      <p>{{ category.skills[0].names }}</p>
+      <p>
+        {% for skill in category.skills %}
+          {{ skill.name }}
+          {% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </p>
     </div><!--//item-->
-    {% endfor %}
+  {% endfor %}
 
   </div>
 
