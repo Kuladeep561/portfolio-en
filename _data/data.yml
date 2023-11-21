@@ -94,13 +94,15 @@ experiences:
     title: Experiences
     info:
       - role: Data Analyst | BIM Technician
-        time: July 2022 - Present
+        time: 07/2022 - Present
         company: EDD-Holding, Köln
         technologies:
         - Python
         - Vanilla.js
         - Node.js
         - RESTful API
+        - SQL
+        - PowerBI
         details: |
           As a Data Analyst and BIM Technician (developer) at EDD-Holding, I specialize in leveraging various technologies to enhance the efficiency of structural engineers' workflows. 
           Serving as the go-to professional for a team of structural engineers, I play a pivotal role in developing applications and providing valuable insights through data analysis
@@ -113,17 +115,24 @@ experiences:
           
           In summary, these key achievements showcase my diverse skill set, blending developer expertize, data analytics, and technology integration to facilitate smoother workflows and deliver innovative solutions for the structural engineering team at EDD-Holding.
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: ETL Developer - Internship
+        time: 05/2021 – 09/2021
+        company: Hochtief Vicon GmbH, Essen
+        technologies:
+        - SQL
+        - ETL
+        - Azure DF
+        - PowerShell
+        - MS SSIS       
+
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          During my internship at Hochtief Vicon GmbH, I served as an ETL Developer, contributing to the optimization and expansion of data processing workflows. 
+          Key accomplishments during this period include
+            - Implemented a recursive file search using Azure Data Factory
+            - Optimized an existing Azure Data Factory ETL pipeline through generalization
+            - Implemented multiple connectors in a data processing workflow MS SSIS and T-SQL
+            - Various software developments and adjustments in C# and PowerShell.
+
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
