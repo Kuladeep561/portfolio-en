@@ -111,7 +111,12 @@ skills:
 
     - name: Others
       skills:
-        - names: Azure Data Factory, MS SSIS, QGIS
+        - names: MS SSIS, QGIS, Autodesk Revit, Unreal Engine 4, MS Office
+      
+    - name: Softskills
+      skills:
+        - names: Critical thinking, Problem solving, Teamwork, Communication, Time management, Adaptability, Creativity, Leadership, Empathy, Decision making, Stress management, Self-motivation,
+
 
 experiences:
     title: Experiences
