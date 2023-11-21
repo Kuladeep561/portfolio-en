@@ -88,26 +88,26 @@ education:
             - Bullet point
 
 skills:
-    title: Skills &amp; Proficiency
+  categories:
+    - name: Programming
+      skills:
+        - name: Python
+        - name: Vanilla.js and Node.js (basics)
 
-    toolset:
-      - name: Python
-        level: 98%
+    - name: Databases
+      skills:
+        - name: SQL
+        - name: Data lake
 
-      - name: Node.js & Vanilla
-        level: 50%
+    - name: RESTful API
+      skills:
+        - name: OpenAI
+        - name: Forge API
 
-      - name: SQL
-        level: 98%
-
-      - name: Azure(Data Factory, Databricks)
-        level: 65%
-
-      - name: PySpark
-        level: 50%
-
-      - name: MS Power BI
-        level: 60%
+    - name: Cloud
+      skills:
+        - name: Azure Data Factory
+        - name: Databricks
         
 experiences:
     title: Experiences
@@ -117,11 +117,13 @@ experiences:
         company: EDD-Holding, Köln
         technologies:
         - Python
+        - Pyspark
         - Vanilla.js
         - Node.js
         - RESTful API
         - SQL
         - PowerBI
+        - Databricks
         details: |
           As a Data Analyst and BIM Technician (developer) at EDD-Holding, I specialize in leveraging various technologies to enhance the efficiency of structural engineers' workflows. 
           Serving as the go-to professional for a team of structural engineers, I play a pivotal role in developing applications and providing valuable insights through data analysis
