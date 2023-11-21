@@ -11,20 +11,17 @@
   </h2>
 
   <div class="skillset">
-
-    {% for category in skills.categories  %}
-    <div class="item">
-
-      <h3 class="level-title">{{ category.name }}:</h3>
-      <p>
-        {% for skill in category.skills %}
-          {{ skill.names }}
-          {% unless forloop.last %}, {% endunless %}
-        {% endfor %}
-      </p>
-    </div><!--//item-->
-  {% endfor %}
-
+    {% for category in skills.categories %}
+      <div class="item">
+        <h3 class="level-title">{{ category.name }}:</h3>
+        <p>
+          {% for skill in category.skills %}
+            {{ skill.names }}
+            {% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </p>
+      </div><!--//item-->
+    {% endfor %}
   </div>
 
 </section><!--//skills-section-->
