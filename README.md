@@ -18,34 +18,10 @@ Welcome to my professional portfolio! I'm Kuladeep Karimpati, a Data Engineer wi
   
 <img src="assets/images/profile.png" alt="Profile Picture" width="300" height="300">
 
-## Languages
-I'm proficient in the following languages:
-- German (Basic, A2)
-- English (Professional)
-- Telugu (Native)
 
-## Interests
-- Cricket
-- Movies and Series
-- Cooking
 
 ## Career Profile
 As a versatile professional, I specialize in data analysis, software development, and ETL development. My key skills include Python, SQL, ETL tools, and cross-functional collaboration. I have a proven track record of delivering innovative solutions, including the construction of chatbots and BIM dashboards.
-
-## Education
-### MSc in NHRE
-- **University:** Bauhaus University, Weimar, DE
-- **Time:** 2019 - 2023
-- **Details:**
-  - Master's thesis focused on ontology methods for quality control in construction, emphasizing Ontology for Construction Quality Assurance (OCQA)
-  - Special project involved the automation of visualizing BIM models in game engines using Python and Blueprints in the UE-4 Game Engine.
-
-### Bachelor of Civil Engineering
-- **University:** RGUKT, RK Valley, India
-- **Time:** 2013 - 2017
-- **Details:**
-  - Bullet point
-  - Bullet point
 
 ## Skills
 ### Programming
@@ -103,6 +79,29 @@ As a versatile professional, I specialize in data analysis, software development
   - Implemented robust ETL pipelines using Informatica ETL, enabling seamless data integration from various sources into a central database for advanced reporting
   - Collaborated with cross-functional teams to determine data migration requirements, executed migration plans, and verified data quality post-migration
   - Monitored data loads and addressed data reconciliation issues between source and target systems in SAP BW
+    
+## Education
+### MSc in NHRE
+- **University:** Bauhaus University, Weimar, DE
+- **Time:** 2019 - 2023
+- **Details:**
+  - Master's thesis focused on ontology methods for quality control in construction, emphasizing Ontology for Construction Quality Assurance (OCQA)
+  - Special project involved the automation of visualizing BIM models in game engines using Python and Blueprints in the UE-4 Game Engine.
 
-## Footer
-Designed with ❤️ by [Xiaoying Riley](http://themes.3rdwavemedia.com)
+### Bachelor of Civil Engineering
+- **University:** RGUKT, RK Valley, India
+- **Time:** 2013 - 2017
+- **Details:**
+  - Bullet point
+  - Bullet point
+    
+## Languages
+I'm proficient in the following languages:
+- German (Basic, A2)
+- English (Professional)
+- Telugu (Native)
+
+## Interests
+- Cricket
+- Movies and Series
+- Cooking
