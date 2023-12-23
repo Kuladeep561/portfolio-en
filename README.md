@@ -15,7 +15,7 @@ Welcome to my professional portfolio! I'm Kuladeep Karimpati, a Data Engineer wi
 ## Profile Information
 - **Name:** Kuladeep Karimpati
 - **Tagline:** Data Engineer
-- **Avatar:** ![Profile Picture](assets/images/profile.png)
+- **Avatar:** <img src="assets/images/profile.png" alt="Profile Picture" width="50" height="50">
 
 ## Languages
 I'm proficient in the following languages:
