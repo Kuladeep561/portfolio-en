@@ -7,10 +7,11 @@ Welcome to my professional portfolio! I'm Kuladeep Karimpati, a Data Engineer wi
 - [Languages](#languages)
 - [Interests](#interests)
 - [Career Profile](#career-profile)
-- [Education](#education)
 - [Skills](#skills)
 - [Experiences](#experiences)
-- [Footer](#footer)
+- [Education](#education)
+
+
 
 ## Profile Information
 - **Name:** Kuladeep Karimpati
