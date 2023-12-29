@@ -221,20 +221,14 @@ experiences:
 #             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #             Praesent venenatis erat non augue suscipit consectetur.
 
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
+projects:
+  title: Projects
+  intro: >
+    Aspiring to excel in the dynamic field of data engineering, I have undertaken hands-on projects to hone my skills in designing scalable data architectures and leveraging cloud technologies. Explore this project and more on 
+  assignments:
+    - title: Tokyo Olympics Data Engineering
+      link: "https://github.com/Kuladeep561/tokyo-olympic-dataengineering-project"
+      tagline: "Led the design and implementation of a scalable data warehouse for Tokyo Olympics 2021 data, demonstrating proficiency in Azure cloud technologies and data analytics."
 
 #       - title: Tempo
 #         link: "#"
