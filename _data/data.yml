@@ -229,6 +229,12 @@ projects:
     - title: Tokyo Olympics Data Engineering
       link: "https://github.com/Kuladeep561/tokyo-olympic-dataengineering-project"
       tagline: "Led the design and implementation of a scalable data warehouse for Tokyo Olympics 2021 data, demonstrating proficiency in Azure cloud technologies and data analytics."
+      technologies:
+        - Azure Datafactory
+        - Azure Databricks
+        - Azure data lake Gen2
+        - Azure Synapse
+        - Power BI
 
 #       - title: Tempo
 #         link: "#"
