@@ -271,10 +271,9 @@ p {
   .item {
     margin-bottom: 5px;
     display: grid;
-    grid-template-columns: auto 1fr; // Change this line
+    grid-template-columns: 150px 1fr; // Adjust this line
     align-items: start;
     gap: 5px;
-    min-width: 200px; // Add this line
   }
   .level-title {
     font-weight: bold; 
