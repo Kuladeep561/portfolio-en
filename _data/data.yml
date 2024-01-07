@@ -92,7 +92,7 @@ skills:
     names: Data integration, Data cleansing, ETL, Web development, Data Visualization
   - category: Programming
     names: Python, SQL, JavaScript
-  - category: Data stack
+  - category: DataStack
     names: Azure Datalake, Data Factory, Databricks, Apache Airflow, Apache Kafka, SSIS, Synapse, Power BI
   - category: Others
     names: MS SSIS, QGIS, Autodesk Revit, Unreal Engine 4, MS Office
