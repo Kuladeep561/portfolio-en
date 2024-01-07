@@ -88,26 +88,16 @@ education:
             - Bullet point
 
 skills:
-  categories:
-    - name: Skills
-      skills:
-        - names: Data integration, Data cleansing, ETL, Web development, Data Visualization
-
-    - name: Programming
-      skills:
-        - names: Python, SQL, JavaScript
-
-    - name: Data stack
-      skills:
-        - names: Azure Datalake, Data Factory, Databricks, Apache Airflow, Apache Kafka, SSIS, Synapse, Power BI
-
-    - name: Others
-      skills:
-        - names: MS SSIS, QGIS, Autodesk Revit, Unreal Engine 4, MS Office
-      
-    - name: Softskills
-      skills:
-        - names: Critical thinking, Problem solving, Teamwork, Adaptability, Creativity, Leadership, Self-motivation,
+  - category: Skills
+    names: Data integration, Data cleansing, ETL, Web development, Data Visualization
+  - category: Programming
+    names: Python, SQL, JavaScript
+  - category: Data stack
+    names: Azure Datalake, Data Factory, Databricks, Apache Airflow, Apache Kafka, SSIS, Synapse, Power BI
+  - category: Others
+    names: MS SSIS, QGIS, Autodesk Revit, Unreal Engine 4, MS Office
+  - category: Softskills
+    names: Critical thinking, Problem solving, Teamwork, Adaptability, Creativity, Leadership, Self-motivation,
 
 
 experiences:

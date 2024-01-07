@@ -11,12 +11,13 @@
   </h2>
 
   <div class="skillset">
-    {% for category in skills.categories %}
+    {% for skillCategory in skills %}
       <div class="item">
-        <h3 class="level-title">{{ category.name }}:</h3>
+        <h3 class="level-title">{{ skillCategory.category }}:</h3>
         <p>
-          {% for skill in category.skills %}
-            {{ skill.names }}
+          {% assign skillList = skillCategory.names | split: ', ' %}
+          {% for skill in skillList %}
+            {{ skill }}
             {% unless forloop.last %}, {% endunless %}
           {% endfor %}
         </p>
