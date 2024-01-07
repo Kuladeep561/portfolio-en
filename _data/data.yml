@@ -137,7 +137,7 @@ experiences:
           As a Data Analyst and BIM Technician (developer) at EDD-Holding, I specialize in leveraging various technologies to enhance the efficiency of structural engineers' workflows. 
           Serving as the go-to professional for a team of structural engineers, I play a pivotal role in developing applications and providing valuable insights through data analysis
           My Key Performances:
-            - Developed a solution architecture for BIM Dashboards involving ETL processes and PowerBI on MS Azure
+            - Developed a solution architecture for BIM Dashboards involving ETL processes and PowerBI using Azure cloud. (A replicated version of the project is available in the projects section)
             - Conducted ETL operations on building data and prepared PowerBI Dashboards for comprehensive reinforcement, concrete, and CO2 assessments
             - Implemented Autodesk Forge-based web applications, including an IFC cloud converter and a data extractor into Excel
             - Created and deployed a construction chatbot using OpenAI embeddings and Python Flask
@@ -226,6 +226,17 @@ projects:
   intro: >
     Aspiring to excel in the dynamic field of data engineering, I have undertaken hands-on projects to hone my skills in designing scalable data architectures and leveraging cloud technologies. Explore this project and more on 
   assignments:
+    - title: Adventure Works Data Engineering
+      link: "https://github.com/Kuladeep561/adventure-works-azure-dataengineering-project"
+      tagline: "Developed and executed a project for Adventure Works 2022 data using Azure cloud technologies, closely mirroring a real-time industrial project."
+      technologies:
+        - SQL Server
+        - Azure DF
+        - Azure Databricks
+        - Azure data lake Gen2
+        - Synapse
+        - Power BI
+
     - title: Tokyo Olympics Data Engineering
       link: "https://github.com/Kuladeep561/tokyo-olympic-dataengineering-project"
       tagline: "Led the design and implementation of a scalable data warehouse for Tokyo Olympics 2021 data, demonstrating proficiency in Azure cloud technologies and data analytics."
