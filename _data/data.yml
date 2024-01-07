@@ -89,25 +89,17 @@ education:
 
 skills:
   categories:
+    - name: Skills
+      skills:
+        - names: Data integration, Data cleansing, ETL, Web development, Data Visualization
+
     - name: Programming
       skills:
-        - names: Python, SQL, Vanilla.js &amp Node.js (basics)
+        - names: Python, SQL, JavaScript
 
-    - name: Databases
+    - name: Data stack
       skills:
-        - names: SQL Server, Data lake
-
-    - name: Cloud, ETL
-      skills:
-        - names: Azure Data Factory, Databricks, SAP BW 
-    
-    - name: Dataanalysis
-      skills:
-        - names: MS PowerBI 
-
-    - name: RESTful API
-      skills:
-        - names: OpenAI, Autodesk Forge API
+        - names: Azure Datalake, Data Factory, Databricks, Apache Airflow, Apache Kafka, SSIS, Synapse, Power BI
 
     - name: Others
       skills:
