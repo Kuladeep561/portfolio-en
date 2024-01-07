@@ -270,14 +270,14 @@ p {
 .skillset {
   .item {
     margin-bottom: 5px;
-    display: grid; // Change this line
-    grid-template-columns: auto 1fr; // Add this line
-    align-items: start; // Add this line
-    gap: 5px; // Add this line
+    display: grid;
+    grid-template-columns: 150px 1fr; // Adjust this line
+    align-items: start;
+    gap: 5px;
   }
   .level-title {
     font-weight: bold; 
-    display: block; // Keep this line
+    display: block;
     margin-right: 5px;
     font-size: 14px;
     margin-top: 0;
