@@ -270,12 +270,14 @@ p {
 .skillset {
   .item {
     margin-bottom: 5px;
-    display: flex; // Add this line
-    flex-direction: column; // Add this line
+    display: grid; // Change this line
+    grid-template-columns: auto 1fr; // Add this line
+    align-items: start; // Add this line
+    gap: 5px; // Add this line
   }
   .level-title {
     font-weight: bold; 
-    display: block; // Change this line
+    display: block; // Keep this line
     margin-right: 5px;
     font-size: 14px;
     margin-top: 0;
@@ -284,15 +286,6 @@ p {
   .skills-section p {
     margin: 0; 
     margin-left: 5px;
-    flex-wrap: wrap; // Add this line
-  }
-  .level-bar {
-    height: 12px;
-    background: $smoky-white;
-  }
-  .level-bar-inner {
-    height: 12px;
-    background: lighten($theme-color, 15%);
   }
 }
 
